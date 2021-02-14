@@ -18,6 +18,8 @@ Webpack is a task runner and a module bundler. It originally started as a module
 
 3. Click the **GREEN** "Create repository from template" button
 4. Clone your new repo to your local machine
+5. CD into your new directory
+6. Run this command `git rm --cached .env && git add -A && git commit -m "ignored env file"`
 5. Start working!
 
 ## Starting the Project
